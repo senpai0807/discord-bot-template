@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Structures/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./Structures/index.js"
+  },
+  "keywords": [],
+  "author": "senpai0807",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "glob": "8.1.0",
+    "mongoose": "^8.4.0"
+  }
+}
